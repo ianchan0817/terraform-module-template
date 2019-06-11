@@ -1,1 +1,1 @@
-# vpc-terraform
+# terraform-module-template
